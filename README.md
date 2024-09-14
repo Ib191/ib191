@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there I'm Ilias 👋
 
-<!--
-**Ib191/ib191** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+I'm a Technology Advisor with a keen focus on leveraging Data Science and Business Engineering to boost business processes, strategies, and performance. My expertise is in transforming complex data sets into actionable insights that tackle real-world challenges and drive success for my clients.
 
-Here are some ideas to get you started:
+### 🎓 Educational Background:
+- Master’s in Business Engineering, Solvay Brussels School of Economics & Management
+- Specializations in Data Science, Big Data, and Financial Econometrics
+- Data Science and AI Bootcamp at Le Wagon
+- Various Microsoft and DataCamp certifications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌍 Global Citizen
+
+I'm a passionate traveler and cultural explorer. I have a map with scratched-off destinations, marking memorable places like New Zealand, where I studied at Auckland University of Technology during an Erasmus exchange. What about you ?
+
+### 🏠 Living the Tech Life
+
+At home, my passion for technology truly comes to life. I've transformed my living space into a smart ecosystem, where everything from the curtains to the lighting and even the entertainment system is automated.
+
+### ⚽ Sports Enthusiast
+
+Sport has been a significant part of my life. With 19 years of playing football, including competing in the 2nd professional division of indoor soccer, I've developed strong skills in teamwork, perseverance, and strategic thinking. What is your favorite team ? 
